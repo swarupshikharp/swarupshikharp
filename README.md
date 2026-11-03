@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Shikhar Swarup 👋
 
-<!--
-**swarupshikharp/swarupshikharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-Year Electronics and Telecommunication Engineering Student at VESIT.
 
-Here are some ideas to get you started:
+I am interested in electronics, embedded systems and developing practical solutions using intelligent sensing technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Embedded Systems
+- Sensor Interfacing
+- PCB Design
+- Internet of Things (IoT)
+- Wireless Sensor Networks
+- Signal Processing
+- Edge AI and Machine Learning
+
+## Technical Skills
+- **Programming:** C, C++, Python (as applicable)
+- **Microcontrollers:** ESP32, Arduino (as applicable)
+- **Communication Protocols:** UART, SPI, I2C
+- **Tools:** MATLAB, VS Code, Git and GitHub (as applicable)
+
+## Projects
+- Anti-Tampering Detection for Weighing Instruments
+- Sensor Interfacing and Embedded Systems
+- Signal Processing and Data Analysis
+
+## Currently Learning
+- MEMS Sensors and Instrumentation
+- Wireless Sensor Networks
+- PCB Development
+- Edge AI
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn profile URL here
