@@ -9,20 +9,17 @@ I am interested in electronics, embedded systems and developing practical soluti
 - Sensor Interfacing
 - PCB Design
 - Internet of Things (IoT)
-- Wireless Sensor Networks
-- Signal Processing
-- Edge AI and Machine Learning
+- Machine Learning
 
 ## Technical Skills
-- **Programming:** C, C++, Python (as applicable)
-- **Microcontrollers:** ESP32, Arduino (as applicable)
+- **Programming:** C, Python 
+- **Microcontrollers:** ESP32, Arduino, Raspberry pi
 - **Communication Protocols:** UART, SPI, I2C
-- **Tools:** MATLAB, VS Code, Git and GitHub (as applicable)
+- **Tools:** MATLAB, Arduino IDE 
 
 ## Projects
 - Anti-Tampering Detection for Weighing Instruments
-- Sensor Interfacing and Embedded Systems
-- Signal Processing and Data Analysis
+- Vehicle Accident Detection & Prevention System
 
 ## Currently Learning
 - MEMS Sensors and Instrumentation
@@ -30,5 +27,3 @@ I am interested in electronics, embedded systems and developing practical soluti
 - PCB Development
 - Edge AI
 
-## Connect With Me
-- LinkedIn: Add your LinkedIn profile URL here
